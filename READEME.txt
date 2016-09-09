@@ -1,0 +1,9 @@
+MLCS项目
+paper title：A Novel Fast and Memory Efficient Parallel MLCS Algorithm for Long and Large-Scale Sequences Alignments
+
+
+utils:工具包
+	STUtils.java:构造后继表的工具类
+	
+mlcs：主算法所在的包
+	SucTable.java:后继表的实体类
