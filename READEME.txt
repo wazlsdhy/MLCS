@@ -7,3 +7,5 @@ utils:工具包
 	
 mlcs：主算法所在的包
 	SucTable.java:后继表的实体类
+	
+README.txt：本文档，解释说明该工程中各个文件的作用。
